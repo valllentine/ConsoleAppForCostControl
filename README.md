@@ -28,9 +28,11 @@ After logging into your account, the main menu appears.
    2. Return to basic menu
    
 3. Delete records - select to go to the menu for deleting records
+
    1. Delete all records
       1. If you want to delete all records, press 1
       2. If you want to return to the menu, press 2
+
    2. Return to menu
    
 4. Sign out - select to sign out of your account
