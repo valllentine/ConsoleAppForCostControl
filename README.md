@@ -1,4 +1,3 @@
-# ConsoleAppForCostControl
 <h1 align="center">Console App For Cost Control</h1>
 
 Launch the application.
